@@ -29,7 +29,7 @@ Jekyll is a [Ruby Gem](https://jekyllrb.com/docs/ruby-101/#gems) that can be ins
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
 2. Install Jekyll and [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) [gems](https://jekyllrb.com/docs/ruby-101/#gems)
 ```
-gem install jekyll bundler
+gem install --user-install jekyll bundler
 ```
 3. Change into your new directory
 ```
@@ -37,6 +37,7 @@ cd personal-website
 ```
 4. Install missing gems
 ```
+bundle config set path "$(ruby -r rubygems -e 'puts Gem.user_dir')"
 bundle install
 ```
 5. Build the site and make it available on a local server
@@ -120,7 +121,7 @@ Your website supports linking and sharing to social media services you're using,
 ```
 social_media:
   behance: your_username
-  dribbble: your_username  
+  dribbble: your_username
   facebook: your_username
   hackerrank: your_username
   instagram: your_username
