@@ -14,6 +14,11 @@ facebook:
   share_url_prefix: https://www.facebook.com/sharer/sharer.php?u=
   icon_svg: '<svg height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.3 15.4"><path d="M14.5 0H.8a.88.88 0 0 0-.8.9v13.6a.88.88 0 0 0 .8.9h7.3v-6h-2V7.1h2V5.4a2.87 2.87 0 0 1 2.5-3.1h.5a10.87 10.87 0 0 1 1.8.1v2.1h-1.3c-1 0-1.1.5-1.1 1.1v1.5h2.3l-.3 2.3h-2v5.9h3.9a.88.88 0 0 0 .9-.8V.8a.86.86 0 0 0-.8-.8z" fill="#959da5"/></svg>'
 
+gitlab:
+  name: GitLab
+  profile_url_prefix: https://gitlab.com/
+  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" class="tanuki-logo" height="22" width="22"><path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z" id="path2" style="fill:#747474;fill-opacity:1"/><path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z" id="path4" style="fill:#747474;fill-opacity:1"/><path class="tanuki-shape tanuki-nose" d="M 18,34.38 3,14 h 30 z" id="path6" inkscape:connector-curvature="0" style="fill:#747474;fill-opacity:1"/><path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z" id="path8" style="fill:#a0a0a0;fill-opacity:1"/><path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z" id="path10" style="fill:#a0a0a0;fill-opacity:1"/><path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z" id="path12" style="fill:#c4c4c4;fill-opacity:1"/><path class="tanuki-shape tanuki-right-cheek" d="m 34,14 1.9,6.16 c 0.18,0.565 0,1.2 -0.5,1.56 L 18,34.38 Z" id="path14" inkscape:connector-curvature="0" style="fill:#c4c4c4;fill-opacity:1"/></svg>'
+
 goodreads:
   name: Goodreads
   profile_url_prefix: https://goodreads.com/user/show/

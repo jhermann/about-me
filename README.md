@@ -126,6 +126,7 @@ social_media:
   devto: your_username
   dribbble: your_username
   facebook: your_username
+  gitlab: your_username
   goodreads: your_user_id
   hackerrank: your_username
   instagram: your_username
