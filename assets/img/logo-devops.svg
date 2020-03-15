@@ -18,7 +18,7 @@
    height="120"
    viewBox="0 0 119.99999 119.99999"
    xml:space="preserve"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="logo-devops.svg"
    inkscape:export-filename="_img/logo-devops.png"
    inkscape:export-xdpi="90"
@@ -35,7 +35,7 @@
      inkscape:window-height="946"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="3.3208333"
+     inkscape:zoom="4.0894342"
      inkscape:cx="60"
      inkscape:cy="60"
      inkscape:window-x="93"
@@ -556,15 +556,15 @@
      transform="matrix(0.99885354,-0.04787034,0.04787034,0.99885354,-27.712041,-20.481099)"
      id="g3986"
      style="stroke:none"><path
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       style="fill:#ff8989;fill-opacity:1;stroke:none"
        d="m -431.63086,147.00195 a 421.42856,421.42856 0 0 0 -374.91211,210.59766 421.42856,421.42856 0 0 0 -14.12109,393.88281 l 108.53711,-3.20117 71.3125,-101.03125 a 214.53116,214.53116 0 0 1 13.44922,-186.20312 214.53116,214.53116 0 0 1 196.26757,-106.9668 l -50.92382,-110.29102 52.07031,-96.66406 a 421.42856,421.42856 0 0 0 -1.67969,-0.12305 z"
        id="path3988"
        inkscape:connector-curvature="0" /><path
-       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       style="fill:#8989ff;fill-opacity:1;stroke:none"
        d="m -410.70312,148.54492 -51.30665,95.24414 51.88282,112.36719 a 214.53116,214.53116 0 0 1 75.81836,26.36914 214.53116,214.53116 0 0 1 78.52343,293.05469 214.53116,214.53116 0 0 1 -5.60742,8.68164 l 120.95508,11.04297 57.71875,93.49219 a 421.42856,421.42856 0 0 0 6.111328,-9.76954 A 421.42856,421.42856 0 0 0 -230.86133,203.3457 421.42856,421.42856 0 0 0 -410.70312,148.54492 z"
        id="path3990"
        inkscape:connector-curvature="0" /><path
-       style="fill:#008e00;fill-opacity:1;stroke:none"
+       style="fill:#00c000;fill-opacity:1;stroke:none"
        d="m -632.10938,666.42578 -70.01171,99.18555 -109.73047,3.23828 a 421.42856,421.42856 0 0 0 159.5625,164.43359 421.42856,421.42856 0 0 0 559.085935,-127.93359 l -57.240235,-92.71484 -123.19922,-11.24805 a 214.53116,214.53116 0 0 1 -275.19726,52.7168 214.53116,214.53116 0 0 1 -83.26954,-87.67774 z"
        id="path3992"
        inkscape:connector-curvature="0" /></g></g></g></svg>
