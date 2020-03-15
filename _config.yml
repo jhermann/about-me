@@ -59,12 +59,23 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Python3
+    web_url: https://planetpython.org/
+    image_url: https://jhermann.github.io/about-me/assets/img/logo-python.svg
 
-  - name: Web design
+  - name: Data Science
+    web_url: https://towardsdatascience.com/
+    image_url: https://jhermann.github.io/about-me/assets/img/logo-data-science.svg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Jupyter Notebook
+    web_url: https://github.com/jhermann/jupyter-by-example#readme
+    image_url: https://jhermann.github.io/about-me/assets/img/logo-jupyter.svg
+
+  - name: DevOps
+    web_url: https://devops.com/
+    image_url: https://jhermann.github.io/about-me/assets/img/logo-devops.svg
+
+  - name: Writing
+    web_url: https://www.writethedocs.org/
+    image_url: https://jhermann.github.io/about-me/assets/img/logo-writing.svg
+
