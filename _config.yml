@@ -75,6 +75,10 @@ topics:
     web_url: https://devops.com/
     image_url: https://jhermann.github.io/about-me/assets/img/logo-devops.svg
 
+  - name: Linux
+    web_url: https://www.linuxfoundation.org/
+    image_url: https://jhermann.github.io/about-me/assets/img/logo-linux.svg
+
   - name: Writing
     web_url: https://www.writethedocs.org/
     image_url: https://jhermann.github.io/about-me/assets/img/logo-writing.svg
