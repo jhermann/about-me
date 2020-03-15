@@ -123,6 +123,7 @@ Your website supports linking and sharing to social media services you're using,
 ```
 social_media:
   behance: your_username
+  devto: your_username
   dribbble: your_username
   facebook: your_username
   hackerrank: your_username
