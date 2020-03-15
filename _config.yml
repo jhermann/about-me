@@ -21,12 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 13
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
-    # - repo-name
+      - observatory
 
 social_media:
   website: http://jhermann.github.io/
